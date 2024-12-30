@@ -6,8 +6,8 @@ Para baixar videos ou somente o áudio de vídeos do youtube, sem ter que descob
 
 1. Baixe ou clone o repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <PASTA_DO_REPOSITORIO>
+git clone https://github.com/titoco3000/youtube_downloader.git
+cd youtube_downloader
 ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
